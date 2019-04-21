@@ -1,0 +1,1 @@
+# EmiliaIRC (GoIRCBot)
